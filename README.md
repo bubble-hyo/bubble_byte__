@@ -31,11 +31,11 @@
 ---
 
 ## 📊 My GitHub Stats
-> 앞으로 이 카드가 초록색으로 가득 찰 거예요! (아이디를 적어주세요 😉)
+> 앞으로 이 카드가 초록색으로 가득 찰 거예요!
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=본인아이디&show_icons=true&theme=soft-pink&hide_border=true" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인아이디&layout=compact&theme=soft-pink&hide_border=true" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bubble-hyo&show_icons=true&theme=soft-pink&hide_border=true" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubble-hyo&layout=compact&theme=soft-pink&hide_border=true" alt="top langs" />
 </p>
 
 ---
