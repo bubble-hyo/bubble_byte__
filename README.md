@@ -1,50 +1,78 @@
-# 🎀 Welcome to HyoJeong's Garden 🎀 
+# 🌱 Bubble Hyo — 기초부터 차근차근
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Growing%20Every%20Day&fontSize=70&animation=fadeIn&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rect\&color=FADADD\&height=160\&section=header\&text=Back%20to%20Basics\&fontSize=46\&fontColor=333333)
 
-## 🚀 About Me
-- 🦷 **전직 치과기공사**에서 현재는 **컴퓨터소프트웨어공학** 전공자로 변신 중!
-- 🛠 치아를 만들던 섬세한 손길로 이제는 **꼼꼼하고 튼튼한 코드**를 만들고 싶어요.
-- 🎨 기능은 물론, 사용자가 보기에도 예쁜 **UI/UX 디자인**에 진심입니다.
+> 아직 많이 부족합니다. 그래서 기초부터 하나씩 다시 배우고 있습니다.
 
 ---
 
-## 🛠 Learning & Tools
-> "빈 도화지를 하나씩 채워가는 중이에요!"
+## 👋 소개
 
-### 📚 현재 집중하고 있는 공부
-- **Python**: 프로그래밍의 기초 체력을 기르는 중 🐍
-- **React**: 현대적인 웹 화면을 만드는 재미에 빠졌어요 ⚛️
-- **JavaScript**: 웹에 생동감을 불어넣기 위해 열공 중 💛
-
-### 🎨 디자인 및 기초 역량
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+전직 **치과기공사** → 현재 **컴퓨터소프트웨어공학 전공생**입니다.
+비전공자 관점에서 이해가 안 되던 부분을 다시 정리하며 **프로그래밍 기초 체력**을 쌓는 중입니다.
 
 ---
 
-## 📌 My Journey
-- 📱 **ADHD Helper App**: 일상을 돕는 따뜻한 앱을 기획하고 있어요. (현재는 잠시 기초 내공 쌓는 중!)
-- ✍️ **Tistory 블로그**: 오늘 배운 것을 잊지 않기 위해 기록을 시작했습니다!
+## 📘 현재 공부 중 (기초 중심)
+
+> 응용보다 원리, 속도보다 이해
+
+* **Python**
+
+  * 변수, 자료형, 조건문, 반복문
+  * 함수 개념 이해
+  * 간단한 콘솔 프로그램 연습
+
+* **JavaScript**
+
+  * 문법 기초
+  * HTML과 함께 동작하는 구조 이해
+
+* **React**
+
+  * 왜 필요한지 개념만 이해하는 단계
+  * 컴포넌트가 무엇인지 알아가는 중
 
 ---
 
-## 📊 My GitHub Stats
-> 앞으로 이 카드가 초록색으로 가득 찰 거예요!
+## 🧰 사용 중인 기초 스택
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bubble-hyo&show_icons=true&theme=soft-pink&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubble-hyo&layout=compact&theme=soft-pink&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" />
 </p>
 
 ---
 
-## 📫 Contact Me
-[![Tistory](https://img.shields.io/badge/Tistory-black?style=flat-square&logo=tistory&logoColor=white)](https://bubble-byte.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:onefive00@naver.com)
+## 🗂 기록과 계획
+
+* **GitHub**
+  → 수업 실습 코드와 개인 연습 코드 위주
+
+* **Tistory 블로그 (시작 단계)**
+  → Python 공부 내용부터 하나씩 정리할 예정
+  → 틀렸던 부분, 헷갈렸던 개념 위주로 기록
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bubble-hyo&show_icons=true&theme=rose&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubble-hyo&layout=compact&theme=rose&hide_border=true" />
+</p>
+
+---
+
+## 📬 Contact
+
+* Blog: [https://bubble-byte.tistory.com/](https://bubble-byte.tistory.com/)
+* Email: [onefive00@naver.com](mailto:onefive00@naver.com)
+
+---
 
 <p align="center">
-  <b>비어있는 잔디밭을 하나씩 채워갈 예정입니다. 지켜봐 주세요! 🌱✨</b>
+  <sub>잘하는 개발자보다, 계속 배우는 개발자가 되고 싶습니다.</sub>
 </p>
