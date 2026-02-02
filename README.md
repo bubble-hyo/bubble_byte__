@@ -26,7 +26,7 @@
 
 ## 📌 My Journey
 - 📱 **ADHD Helper App**: 일상을 돕는 따뜻한 앱을 기획하고 있어요. (현재는 잠시 기초 내공 쌓는 중!)
-- ✍️ **[Tistory 블로그](https://bubble-byte.tistory.com/)**: 오늘 배운 것을 잊지 않기 위해 기록을 시작했습니다!
+- ✍️ **Tistory 블로그**: 오늘 배운 것을 잊지 않기 위해 기록을 시작했습니다!
 
 ---
 
