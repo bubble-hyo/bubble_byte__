@@ -39,8 +39,8 @@
 ---
 
 ## 📫 Contact Me
-[![Tistory](https://img.shields.io/badge/Tistory-black?style=flat-square&logo=tistory&logoColor=white)](본인티스토리주소)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:본인이메일)
+[![Tistory](https://img.shields.io/badge/Tistory-black?style=flat-square&logo=tistory&logoColor=white)](https://bubble-byte.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto: onefive00@naver.com)
 
 <p align="center">
   <b>매일 조금씩 성장하는 개발자가 되겠습니다! ✨</b>
