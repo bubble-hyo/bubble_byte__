@@ -34,7 +34,7 @@
 > 앞으로 이 카드가 초록색으로 가득 찰 거예요!
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bubble-hyo&show_icons=true&theme=soft-pink&hide_border=true" alt="stats" />
+ <img src="https://github-readme-stats.vercel.app/api?username=bubble-hyo&show_icons=true&theme=soft-pink&hide_border=true" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubble-hyo&layout=compact&theme=soft-pink&hide_border=true" alt="top langs" />
 </p>
 
